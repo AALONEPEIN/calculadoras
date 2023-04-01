@@ -1,0 +1,62 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+article {
+  background-color: rgb(254, 255, 255);
+  border-radius: 5px;
+}
+
+body {
+  background-color: rgb(217, 212, 212);
+  display: grid;
+  place-content: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+input {
+  display: flex;
+  margin: auto;
+}
+
+button {
+  font-size: 1em;
+  width: 10em;
+  display: flex;
+  margin: auto;
+}
+
+p {
+  background-color: silver;
+  font-size: 1em;
+  width: 10em;
+  display: flex;
+  margin: auto;
+  border-color: rgb(142, 142, 142);
+  border-width: 1px;
+  border-style: inset;
+}
+
+h1 {
+  color: black;
+  font-size: 2rem;
+  border-radius: 5px;
+  border-width: 0;
+  display: grid;
+  place-content: center;
+}
+
+.penelope {
+  background-color: gold;
+  font-family: cursive;
+}
+
+button {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}/*# sourceMappingURL=style.css.map */
